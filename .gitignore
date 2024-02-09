@@ -72,4 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*big.mp4
 big.mp4
 README.md
-/[Tt]estFolder*
+/testFolder*
